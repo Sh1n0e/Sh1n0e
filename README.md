@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shawn Rae</h1>
-<h3 align="center">An Information Technology student at Carleton University with a focus in Networking in collaboration with Algonquin College</h3>
-
-- 🔭 I’m currently working on [Nokia-Homelab with ContainerLabs](https://github.com/Sh1n0e/Nokia-Homelab)
+<h3 align="center">A student in the Bachelors of Information Technology program in the Networking Stream in collaboration with Algonquin College!</h3>
+ 
+- I have created a Homelab environment that runs a self-hosted cloud service using nextcloud, running a proxy manager and more.
+  - You can see a dashboard view of my current running services [here](https://dashboard.topezlabs.com/)
+- I’m currently working on [Nokia-Homelab with ContainerLabs](https://github.com/Sh1n0e/Nokia-Homelab)
+  - A brief summary of this project is recreating a lab topology that we got to work with Nokia in their Data Center Fabric Professional certification and documenting my journey in recreating it!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/shawnrae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawnrae" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shawn-rae-525b6616b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawnrae" height="30" width="40" /></a>
 <a href="https://instagram.com/shawn_rayes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shawn_rayes" height="30" width="40" /></a>
 </p>
 
