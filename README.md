@@ -5,6 +5,7 @@
   - You can see a dashboard view of my current running services [here](https://dashboard.topezlabs.com/)
 - I’m currently working on [Nokia-Homelab with ContainerLabs](https://github.com/Sh1n0e/Nokia-Homelab)
   - A brief summary of this project is recreating a lab topology that we got to work with Nokia in their Data Center Fabric Professional certification and documenting my journey in recreating it!
+- I am also working on workflow automation with N8n. A repository will be added soon so I can document and show my journey in working with this amazing tool!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
